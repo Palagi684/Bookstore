@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Community - Book Haven</title>
+</head>
+<body>
+  <header>
+    <img src="https://cdn.sophia.org/markup_pictures/38794/file/175f03d468e6feb93fa96bc929ba8946.png" alt="Book Haven Logo" width="50">
+    <h1>Book Haven Bookstore</h1>
+    <nav>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Home">Home</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Gallery">Gallery</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven About Us">About Us</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Community">Community</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Community Events & Testimonials</h2>
+    <section>
+      <h3>Upcoming Events</h3>
+      <ul>
+        <li>Local Author Signing - Aug 15</li>
+        <li>Story Time for Kids - Every Saturday</li>
+        <li>Book Club Meetup - Sept 3</li>
+      </ul>
+    </section>
+    <section>
+      <h3>What Our Readers Say</h3>
+      <blockquote>"Book Haven feels like home. The staff is incredibly kind, and the recommendations are always spot on." – Sarah T.</blockquote>
+      <blockquote>"My kids love the weekend storytime. It's become part of our routine." – Marcus R.</blockquote>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Book Haven Bookstore | Contact us: info@bookhaven.com</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gallery - Book Haven</title>
+</head>
+<body>
+  <header>
+    <img src="https://cdn.sophia.org/markup_pictures/38794/file/175f03d468e6feb93fa96bc929ba8946.png" alt="Book Haven Logo" width="50">
+    <h1>Book Haven Bookstore</h1>
+    <nav>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Home">Home</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Gallery">Gallery</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven About Us">About Us</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Community">Community</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Our Books & Collectibles</h2>
+    <table>
+      <tr>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42784/file/cbbabbf6c98fb9ac8d5d0e00e904b023.png" alt="Book 1" width="120"><br><h5>Brie Mine 4Ever</h5>
+  <p>a book for cheese lovers</p><button>Add to Cart</button>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42785/file/09d7c4abfd897fef28d79af05ca02e2e.png" alt="Book 2" width="120"><br><h5>Glory Riders</h5><p>a book about bikers</p></h5><button>Add to Cart</button></td>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42786/file/ba3a50be61dab549f87ba951a49ed110.png" alt="Book 3" width="120"><br><h5>Sorcerer's Shadowed Chronicals</h5><p>a fantasy book</p><button>Add to Cart</button></td>
+      </tr>
+      <tr> 
+        <td><img src="https://cdn.sophia.org/markup_pictures/42787/file/d2c65b7ff3661c4d3a945a80e13f657c.png" alt="Book 4" width="120"><br><h5>Ball</h5><p>a magazine about pickleball</p><button>Add to Cart</button></td>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42788/file/8d40613d5c21f0b17311413ccdc977b5.png" alt="Book 5" width="120"><br><h5>Travel</h5><p>a magazine for travelers</p><button>Add to Cart</button></td>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42789/file/40fa6225a49bf6e022dee7f81e12e83a.png" alt="Book 6" width="120"><br><h5>Eat.</h5><p>a magazine for foodies</p><button>Add to Cart</button></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42790/file/8429efc117f9e43a5f4ec887cb808a34.png" alt="Tote Bag" width="120"><br><h5>Tote Bag</h5><p>canvas tote bag with black lettering that says "All I do is read"</p><button>Add to Cart</button></td>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42791/file/4f5d6556ca4b5aadc11cce74adadb9d0.png" alt="Notebook" width="120"><br><h5>Notebook</h5><p>notebook with text "Book Haven Bookstore"</p><button>Add to Cart</button></td>
+        <td><img src="https://cdn.sophia.org/markup_pictures/42792/file/b6514b40691664e175da8f51576c4f85.png" alt="Stickers" width="120"><br><h5>Stickers</h5><p>set of 4 Book Haven Bookstore stickers that promote reading</p><button>Add to Cart</button></td>
+      </tr>
+    </table>
+  </main>
+  <footer>
+    <p>&copy; 2025 Book Haven Bookstore | Contact us: info@bookhaven.com</p>
+  </footer>
+</body>
+</html>
+

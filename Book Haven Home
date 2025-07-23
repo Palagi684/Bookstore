@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Book Haven Bookstore</title>
+</head>
+<body>
+  <header>
+    <img src="https://cdn.sophia.org/markup_pictures/38794/file/175f03d468e6feb93fa96bc929ba8946.png" alt="Book Haven Logo" width="100">
+    <h1>Book Haven Bookstore</h1>
+    <nav>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Home">Home</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Gallery">Gallery</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven About Us">About Us</a>
+      <a href="C:\Users\amand\OneDrive\Bookstore\Book Haven Community">Community</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Welcome to Book Haven</h2>
+      <p>Explore a world of stories and ideas. Discover books you'll love and connect with a community of readers.</p>
+    </section>
+    <section>
+      <h2>Featured Collections</h2>
+      <ul>
+        <li>New Releases</li>
+        <li>Staff Picks</li>
+        <li>Children's Favorites</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Book Haven Bookstore | Contact us: info@bookhaven.com</p>
+  </footer>
+</body>
+</html>
+
+
