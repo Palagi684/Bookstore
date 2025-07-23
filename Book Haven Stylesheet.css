@@ -1,0 +1,114 @@
+body {
+  background-color: #FFF7EE; /* Parchment White */
+  font-family: Calibri, sans-serif;
+  color: #2E4057; /* Inkwell Blue */
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #2E4057;
+  color: #FFF7EE;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #FFF7EE;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+  margin: 10px 0 5px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Table and Product Display  */
+table {
+  margin: 20px auto;
+  border-spacing: 30px;
+}
+
+td {
+  text-align: center;
+  vertical-align: top;
+  background-color: #F7B3CC; /* Dusty Rose */
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+button {
+  background-color: #EE583F; /* Intensity Indigo */
+  color: #FFF7EE;
+  border: none;
+  padding: 10px 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #C7B65E; /* Aged Gold */
+}
+
+/* === Form Styling === */
+form {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #F7B3CC;
+  border-radius: 10px;
+}
+
+input[type="text"], input[type="email"], textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="submit"] {
+  background-color: #EE583F;
+  color: #FFF7EE;
+  border: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+  background-color: #C7B65E;
+}
+
+
